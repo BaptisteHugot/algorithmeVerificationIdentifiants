@@ -1,8 +1,19 @@
-# algorithmeLuhn
-Ce programme implémente l'algorithme de Luhn, qui permet de vérifier la validité d'un nombre. Cet algorithme est notamment utilisé pour les numéros de cartes bancaires, les numéros IMEI utilisés pour identifier les terminaux de téléphonie mobile ou encore les numéros SIRET qui permettent l'identification d'une entreprise française.
+# algorithmeVerificationIdentifiants
+Ce programme implémente différents algorithmes utilisés pour vérifier la validité de différents identifiants :
+- algorithme de Luhn, notamment utilisé pour les numéros de cartes bancaires, les numéros IMEI utilisés pour identifier les terminaux de téléphonie mobile ou encore les numéros SIREN et les numéros SIRET qui permettent l'identification d'une entreprise française ;
+- EAN8 et EAN13, utilisés pour les code barres ;
+- ISBN, utilisé pour l'identification des livres ;
+- idendifiants NIR de l'INSEE ;
+- clé RIB ;
+- clé IBAN ;
+- numéro de TVA intracommunautaire ;
+- ISSN, utilisé pour les publications en série ;
+- ISWC, utilisé pour la musique ;
+- eID, correspondant à l'identifiant d'une carte SIM ;
+- ISMN, utilisé pour la musique.
 
 ## Exemple
-Un exemple complet d'utilisation est disponible sur [ma page personnelle GitHub](https://baptistehugot.github.io/algorithmeLuhn/web).
+Un exemple complet d'utilisation est disponible sur [ma page personnelle GitHub](https://baptistehugot.github.io/algorithmeVerificationIdentifiants/web).
 
 ## Ecrit avec
 * [Dart](https://www.dartlang.org/guides/language) - Le langage de programmation utilisé
@@ -11,7 +22,7 @@ Un exemple complet d'utilisation est disponible sur [ma page personnelle GitHub]
 * [Flutter](https://flutter.dev/docs) - La bibliothèque utilisée pour l'affichage graphique
 
 ## Versions
-[SemVer](http://semver.org/) est utilisé pour la gestion des versions. Pour connaître les versions disponibles, veuillez vous référer aux [étiquettes de ce dépôt](https://github.com/BaptisteHugot/algorithmeLuhn/releases/).
+[SemVer](http://semver.org/) est utilisé pour la gestion des versions. Pour connaître les versions disponibles, veuillez vous référer aux [étiquettes de ce dépôt](https://github.com/BaptisteHugot/algorithmeVerificationIdentifiants/releases/).
 
 ## Auteurs
 * **Baptiste Hugot** - *Travail initial* - [BaptisteHugot](https://github.com/BaptisteHugot)
